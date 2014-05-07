@@ -1,0 +1,91 @@
+--update
+-update
+update
+install.packages("Zelig"")
+install.packages("Zelig")
+install.packages(RQDA)
+install.packages("RQDA",dependencies=c("Depends", "Imports"))
+library(RQDA)
+install.packages('rWBClimate')
+install.packages("colorspace")
+install.packages('stringr')
+install.packages('zoo')
+install.packages('survival')
+install.packages('caret')
+install.packages('Rdocumentation')
+install.packages("shiny")
+devtools::install_github("devtools")
+install.packages("httr")
+111 >= 111
+!(TRUE)
+cube <- function(x, n) { x^3 }
+cube(3)
+x <- 1:10
+if(x > 5) { x <- 0 }
+x
+if(x > 5) { x <- 0 }
+f <- function(x) {#
+        g <- function(y) {#
+                y + z#
+        }#
+        z <- 4#
+        x + g(x)#
+}
+z <- 10
+f(3)
+z <- 30
+f(3)
+x <- 5#
+y <- if(x < 3) {#
+        NA#
+} else {#
+        10#
+}
+y
+h <- function(x, y = NULL, d = 3L) {#
+        z <- cbind(x, d)#
+        if(!is.null(y))#
+                z <- z + y#
+        else#
+                z <- z + f#
+        g <- x + y / z#
+        if(d == 3L)#
+                return(g)#
+        g <- g + 10#
+        g#
+}
+3L
+3j
+3M
+3L
+set.seed(1)#
+rpois(5, 2)
+set.seed(1)#
+class(rpois(5, 2))
+set.seed(10)#
+x <- rbinom(10, 10, 0.5)#
+e <- rnorm(10, 0, 20)#
+y <- 0.5 + 2 * x + e
+y
+? rbinom
+? Rprof
+Rprof(NULL)
+?system.time
+setwd("~/Documents/Programming/reliefweb-scraperwiki-collector/code")
+source('code/collector.R')
+source('collector.R')
+ReportData <- GetLatestReports(limit = 'all')
+ReportData <- GetLatestReports()
+source('collector.R')
+ReportData <- GetAllReports
+ReportData <- GetAllReports()
+source('collector.R'')
+source('collector.R')
+AllReportData <- suppressWarnings(GetAllReports())
+source('collector.R')
+AllReportData <- suppressWarnings(GetAllReports())
+source('collector.R')
+AllReportData <- suppressWarnings(GetAllReports())
+source('collector.R'')
+source('collector.R')
+AllReportData <- suppressWarnings(GetAllReports())
